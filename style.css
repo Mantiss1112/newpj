@@ -1,0 +1,195 @@
+*{
+	margin: 0 auto;
+}
+.container{
+	width: 1147px;
+	border: 2px solid black;
+	background-color: #f8f8f3;
+}
+.tepa{
+	width: 200px;
+	height: 50px;
+}
+.tepaa{
+	color: #8e5548;
+	font-size: 18px;
+}
+.vverx{
+	color: #40403e;
+    font-size: 18px;	
+}
+.header{
+	width: 1142px;
+	height: 200px;
+}
+.header ul li{
+	list-style: none;
+	display: inline-block;
+	margin: 0 auto;
+}
+.chorniy{
+	color: #000000;
+}
+.beliy{
+	color: #ffffff;
+	background-color: #d4c69c;
+}
+.fon{
+	background-color: #d4c69c;
+}
+li{
+	width: 178px ;
+	height: 60px;
+	background-color: #ebe9d8;
+}
+.quanto{
+	width: 178px;
+	height: 60px;
+	background-color: #bf3a16;
+}
+h1{
+	color: #ffffff;
+}
+.header ul li a{
+	text-decoration: none;
+}
+.rasm{
+	width: 1000px;
+	height: 303px;
+	padding: 10px;
+	margin-right:  20px;
+}
+.rasm img{
+	float: right;
+}
+.discoverthe{
+	font-size: 26px;
+	color: #aa7a6b;
+	font-style: italic;
+}
+.business{
+	font-size: 79px; 
+	line-height: 5px;
+}
+.secrets{
+	font-size: 79px;
+	color: #bf3a16;
+	margin-left: 50px;
+}
+.success{
+	font-style: italic;
+	margin-left: 70px;
+}
+.textt{
+	width: 300px;
+	height: 400px;
+	float: left;
+}
+.tridiv{
+	width: 1125px;
+	height: 450px;
+	border: 2px solid black;
+	background-color: #ebe9d8;
+	padding-left: 1px;
+	padding-right: 1px;
+	padding: 10px;
+	display: flex;
+}
+.odin{
+	width: 300px;
+	height: 400px;
+	padding:  10px;
+}
+.dva{
+	width: 300px;
+	height: 400px;
+	padding:  10px;
+}
+.tri{
+	width: 300px;
+	height: 400px;
+	padding:  10px;
+}
+.itms{		
+	font-size: 28px;
+	line-height: 2px;
+
+}
+.uchtayozuv{
+	color: #b68f7c;
+	font-size: 18px;
+}
+.lorem{
+	font-size: 14px;
+	font-family: Georgia;
+	color: #5b594c;
+}
+.lor{
+	color: red;
+	line-height: 30px;
+	text-decoration: underline;	
+}
+.newsletter{
+	width: 260px;
+	height:100px;
+	border: 2px solid black;
+	background-color: #bf3a16;
+	padding: 10px;
+}
+.newsl{
+	color: white;
+	font-size: 28px;
+}
+.submit{
+	background-color: red;
+}
+.vladimir{
+	width: 77px;
+	height: 73px;
+}
+.company{
+	text-decoration: underline;
+	color: red;
+}
+.vladimirrr{
+	width: 100px;
+	height: 60px;
+}	
+.odin a{
+	color: red;	
+}
+.tridivv{
+	width: 1145px;
+	height: 243px;
+	border: 2px solid black;	
+	
+	background-color: #dad5bb;
+}	
+.solutions{
+	width: 300px;
+	height: 240px;
+	display: inline-block;
+	margin-right: 20px; 	
+	padding: 10px;
+}
+.popular{
+	width: 300px;
+	height: 240px;
+	display: inline-block;
+	margin-right: 20px;
+	padding: 10px; 	
+}
+.Praesentess{
+	width: 300px;
+	height: 240px;
+	display: inline-block;	
+	margin-right: 20px; 	
+	padding: 10px;
+}
+.solut{
+	font-size: 28px;	
+}
+.consumer{
+	color: red;
+	line-height: 10px;
+}
